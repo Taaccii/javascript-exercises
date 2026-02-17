@@ -1,4 +1,5 @@
-const palindromes = function () {
+const palindromes = function (str) {
+  const reversed = Array.from(str).reverse();
 
 };
 
